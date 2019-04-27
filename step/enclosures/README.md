@@ -1,10 +1,10 @@
 The printHAT enclosure is designed to accomodate the board and the Raspberry Pi. It is composed of two, easily 3D printable, halves and comes in two flavours, with and without cooling fan. 
 
-| Simple  | Cooled | 
+| Natural cooling  | Forced cooling | 
 |:-------------------------:|:-------:|
 |![alt](../../img/case_pHAT_1.0_back.png) | ![alt](../../img/case_pHAT_1.0_fan_back.png) |
 
-The forced cooling version is particularly indicated for all those applications where maximum performance of the drivers is needed, either because of high printing speed or because of big motors with high motor current. 
+The forced cooling version is particularly indicated for all those applications where maximum performance of the drivers is needed, either because of high printing speed or because of big motors with high motor current.  
 We recommend the use of one of the following fans:
 * [Noctua NF-A4x10 5V](https://noctua.at/en/products/fan/nf-a4x10-5v), 40x40x10 mm size, 5V power supply
 * [Noctua NF-A4x20 5V](https://noctua.at/en/products/fan/nf-a4x20-5v), 40x40x20 mm size, 5V power supply, for even greater flow
