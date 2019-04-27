@@ -25,8 +25,13 @@ To mount the enclosure onto a frame, the top half of the enclosure has to be fix
 
 ![alt](../../img/enclosures/enc_step_1.png)
 
-Take the bottom half of the enclosure and the assembled printHAT and Raspberry Pi and slide them together. The enclosure features internal slots to support the boards with no need for additional stand-off. Make sure the boards slide all the way in, so that the board mounting holes are aligned with the ones on the enclosure. Use two M3x30 screws and M3 nuts to secure boards and cover together. If you're assembling the forced cooling version mount the fan using four M3x10 screws.
-
-| ![alt](../../img/enclosures/enc_step_2.png) | ![alt](../../img/enclosures/enc_step_3.png) |
-
+Take the bottom half of the enclosure and the assembled printHAT and Raspberry Pi and slide them together. The enclosure features internal slots to support the boards with no need for additional stand-off. Make sure the boards slide all the way in, so that the board mounting holes are aligned with the ones on the enclosure. Use two M3x30 screws and M3 nuts to secure boards and cover together. If you're assembling the forced cooling version mount the fan using four M3x10 screws.  
+ 
+![alt](../../img/enclosures/enc_step_2.png)
+![alt](../../img/enclosures/enc_step_3.png)
+  
 Put together the twuo parts again sliding the bottom assembly inside teh top part mounted on the frame. Use two M3x30 screws and M3 nuts to secure boards and top part together. That's it.
+
+![alt](../../img/enclosures/enc_step_4.png)
+
+![alt](../../img/enclosures/enc_step_4.png)
