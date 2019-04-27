@@ -1,3 +1,4 @@
+# Enclosures  
 The printHAT enclosure is designed to accomodate the board and the Raspberry Pi. It is composed of two, easily 3D printable, halves and support the installation on slotted modular frames (OpenBuilds, Misumi, Bosch). It comes in two flavours: with and without cooling fan. 
 
 | Natural cooling  | Forced cooling | 
