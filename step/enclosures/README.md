@@ -31,8 +31,6 @@ Take the bottom half of the enclosure and the assembled printHAT and Raspberry P
 ![alt](../../img/enclosures/enc_step_2.png)
 ![alt](../../img/enclosures/enc_step_3.png)
   
-Put together the twuo parts again sliding the bottom assembly inside teh top part mounted on the frame. Use two M3x30 screws and M3 nuts to secure boards and top part together. That's it.
-
-![alt](../../img/enclosures/enc_step_4.png)
+Put together the two parts sliding the bottom assembly inside thr top part mounted on the frame. Use two M3x30 screws and M3 nuts to secure boards and top part together. That's it.
 
 ![alt](../../img/enclosures/enc_step_4.png)
